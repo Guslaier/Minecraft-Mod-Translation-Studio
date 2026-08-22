@@ -1,4 +1,4 @@
-# ⚙️ Minecraft Mod Translation Studio
+# Minecraft Mod Translation Studio
 
 เครื่องมือสำหรับผู้พัฒนาและผู้เล่นที่ต้องการแปลภาษาและสร้าง Resource Pack แปลไทยสำหรับตัวเกม Minecraft ทั้งระบบ (Vanilla, Mods & Modpacks) ได้อย่างรวดเร็วและจบในที่เดียว
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📥 การดาวน์โหลดและติดตั้ง
+## การดาวน์โหลดและติดตั้ง
 
 โปรแกรมนี้เป็นแบบ Portable สามารถเปิดใช้งานได้ทันทีโดยไม่ต้องติดตั้ง:
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 ฟีเจอร์หลัก (Key Features)
+## ฟีเจอร์หลัก (Key Features)
 
 - **FTB Quests Auto-Converter**: สแกนไฟล์ .snbt แปลงข้อความดิบให้เป็น Translation Keys อัตโนมัติ พร้อมระบบสำรองไฟล์แบบ 100%
 - **Dual-System Resource Pack Manager**: จัดการลำดับการโหลด Resource Pack รองรับทั้งระบบ **Paxi Mod** และตัวเกมปกติ (**Vanilla / options.txt**)
