@@ -19,7 +19,7 @@
 โปรแกรมนี้เป็นแบบ Portable สามารถเปิดใช้งานได้ทันทีโดยไม่ต้องติดตั้ง:
 
 1. ไปที่เมนู **[Releases](../../releases/latest)**
-2. ดาวน์โหลดไฟล์ Minecraft Mod Translation Studio 1.2.0.exe
+2. ดาวน์โหลดไฟล์ Minecraft Mod Translation Studio 1.X.X.exe
 3. ดับเบิลคลิกเพื่อเปิดโปรแกรมและเริ่มต้นใช้งานได้ทันที
 
 ---
