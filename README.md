@@ -1,6 +1,6 @@
 <p align="center">
-<img width="1601" height="976" alt="Screenshot 2026-08-22 235934" src="https://github.com/user-attachments/assets/0c45a32d-4f35-486d-a7a2-4051878af9a5" />
-<img width="1604" height="980" alt="Screenshot 2026-08-23 000024" src="https://github.com/user-attachments/assets/a51e2c0e-efaf-4306-991f-724846868716" />
+<img width="49%" alt="Screenshot 2026-08-22 235934" src="https://github.com/user-attachments/assets/0c45a32d-4f35-486d-a7a2-4051878af9a5" />
+<img width="49%" alt="Screenshot 2026-08-23 000024" src="https://github.com/user-attachments/assets/a51e2c0e-efaf-4306-991f-724846868716" />
 </p>
 
 # ⚙️ Minecraft Mod Translation Studio
