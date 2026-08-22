@@ -30,7 +30,7 @@
 - **Dual-System Resource Pack Manager**: จัดการลำดับการโหลด Resource Pack รองรับทั้งระบบ **Paxi Mod** และตัวเกมปกติ (**Vanilla / options.txt**)
 - **Deep Mod Scanner & JSON Recovery**: ระบบสแกนไฟล์ .jar และ .zip เชิงลึก พร้อมระบบซ่อมแซมไฟล์ JSON ที่ผิดพลาด (Error Recovery) อัตโนมัติ
 - **Category Filter & Hard Bypass**: ระบบตัวกรองหมวดหมู่แบบละเอียด (ไอเทม, เควสต์, อื่นๆ) และระบบป้องกันการแปลทับโค้ดระบบเกม (เช่น key., stat.)
-- **High-Concurrency Auto-Translator**: ระบบแปลภาษาอัตโนมัติความเร็วสูงแบบ Multi-threading พร้อมระบบป้องกันตัวแปรโค้ด (เช่น %s, %d) ไม่ให้ถูกแปลจนเสียหาย
+- **High-Concurrency Auto-Translator**: ระบบแปลภาษาอัตโนมัติความเร็วสูงแบบ Multi-threading ผ่าน **Google Translate API** พร้อมระบบ Logic เฉพาะทางสำหรับ Minecraft ที่ช่วยให้คำศัพท์แม่นยำ และป้องกันตัวแปร/โค้ดเกม (เช่น %s, §a) ไม่ให้พังเสียหายจากการแปล
 - **External AI Integration**: รองรับการแบ่งเนื้อหา (Chunking) เพื่อนำไปแปลผ่าน AI ชั้นนำอย่าง ChatGPT, Claude, หรือ Gemini และ Export/Import กลับมาเป็น Zip ได้
 - **Native Font Injection**: ระบบฝังฟอนต์ภาษาไทย (Arabica) ลงใน Resource Pack ให้โดยอัตโนมัติ หมดปัญหาฟอนต์อ่านไม่ออก
 - **Fast, Portable & Modern UI**: ทำงานรวดเร็วระดับ Native และไม่ต้องติดตั้ง มาพร้อมดีไซน์อินเทอร์เฟซสไตล์ Steampunk Fantasy ที่สวยงามและใช้งานง่าย
