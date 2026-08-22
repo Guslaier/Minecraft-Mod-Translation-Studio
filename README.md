@@ -14,12 +14,16 @@
 
 ---
 
-## 🌟 ฟีเจอร์หลัก
+## 🌟 ฟีเจอร์หลัก (Key Features)
 
-- **FTB Quests Auto-Converter**: สแกนไฟล์ .snbt ของ FTB Quests และแปลงข้อความดิบให้เป็น Translation Keys อัตโนมัติ พร้อมระบบสำรองไฟล์ (Backup) ป้องกันข้อมูลสูญหาย
-- **Resource Pack Manager**: จัดการลำดับความสำคัญ (Load Order) ของ Resource Pack รองรับทั้งการทำงานร่วมกับ Paxi Mod และตัวเกมปกติ (Vanilla)
-- **Fast & Portable**: พัฒนาด้วยเทคโนโลยีสมัยใหม่ ทำให้ตัวโปรแกรมทำงานได้รวดเร็ว และพกพาไปใช้งานได้ทันที
-- **Modern UI**: อินเทอร์เฟซถูกออกแบบมาให้ใช้งานง่าย เป็นระเบียบ จัดการทุกอย่างได้จบในหน้าเดียว
+- **FTB Quests Auto-Converter**: สแกนไฟล์ .snbt แปลงข้อความดิบให้เป็น Translation Keys อัตโนมัติ พร้อมระบบสำรองไฟล์แบบ 100%
+- **Dual-System Resource Pack Manager**: จัดการลำดับการโหลด Resource Pack รองรับทั้งระบบ **Paxi Mod** และตัวเกมปกติ (**Vanilla / options.txt**)
+- **Deep Mod Scanner & JSON Recovery**: ระบบสแกนไฟล์ .jar และ .zip เชิงลึก พร้อมระบบซ่อมแซมไฟล์ JSON ที่ผิดพลาด (Error Recovery) อัตโนมัติ
+- **Category Filter & Hard Bypass**: ตัวกรองหมวดหมู่อัจฉริยะ (ไอเทม, เควสต์, อื่นๆ) และระบบป้องกันการแปลทับโค้ดระบบเกม (เช่น key., stat.)
+- **High-Concurrency Auto-Translator**: ระบบแปลภาษาอัตโนมัติความเร็วสูงแบบ Multi-threading พร้อมระบบป้องกันตัวแปรโค้ด (เช่น %s, %d) ไม่ให้ถูกแปลจนเสียหาย
+- **External AI Integration**: รองรับการแบ่งเนื้อหา (Chunking) เพื่อนำไปแปลผ่าน AI ชั้นนำอย่าง ChatGPT, Claude, หรือ Gemini และ Export/Import กลับมาเป็น Zip ได้
+- **Native Font Injection**: ระบบฝังฟอนต์ภาษาไทย (Arabica) ลงใน Resource Pack ให้โดยอัตโนมัติ หมดปัญหาฟอนต์อ่านไม่ออก
+- **Fast, Portable & Modern UI**: ทำงานรวดเร็วระดับ Native และไม่ต้องติดตั้ง มาพร้อมดีไซน์อินเทอร์เฟซที่สวยงามและใช้งานง่าย
 
 ---
 *หมายเหตุ: Repository นี้ใช้สำหรับแจกจ่ายไฟล์โปรแกรม (Releases) เท่านั้น*
