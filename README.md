@@ -1,4 +1,9 @@
-# Minecraft Mod Translation Studio
+<p align="center">
+  <img width="49%" alt="App Screenshot 1" src="https://github.com/user-attachments/assets/466e7d96-39b6-4953-ad5e-9f92e81b2bd1" />
+  <img width="49%" alt="App Screenshot 2" src="https://github.com/user-attachments/assets/b07bd690-bfe7-436e-bbe0-36cfac1f7f1e" />
+</p>
+
+# ⚙️ Minecraft Mod Translation Studio
 
 เครื่องมือสำหรับผู้พัฒนาและผู้เล่นที่ต้องการแปลภาษาและสร้าง Resource Pack แปลไทยสำหรับตัวเกม Minecraft ทั้งระบบ (Vanilla, Mods & Modpacks) ได้อย่างรวดเร็วและจบในที่เดียว
 
@@ -23,7 +28,7 @@
 - **High-Concurrency Auto-Translator**: ระบบแปลภาษาอัตโนมัติความเร็วสูงแบบ Multi-threading พร้อมระบบป้องกันตัวแปรโค้ด (เช่น %s, %d) ไม่ให้ถูกแปลจนเสียหาย
 - **External AI Integration**: รองรับการแบ่งเนื้อหา (Chunking) เพื่อนำไปแปลผ่าน AI ชั้นนำอย่าง ChatGPT, Claude, หรือ Gemini และ Export/Import กลับมาเป็น Zip ได้
 - **Native Font Injection**: ระบบฝังฟอนต์ภาษาไทย (Arabica) ลงใน Resource Pack ให้โดยอัตโนมัติ หมดปัญหาฟอนต์อ่านไม่ออก
-- **Fast, Portable & Modern UI**: ทำงานรวดเร็วระดับ Native และไม่ต้องติดตั้ง มาพร้อมดีไซน์อินเทอร์เฟซที่สวยงามและใช้งานง่าย
+- **Fast, Portable & Modern UI**: ทำงานรวดเร็วระดับ Native และไม่ต้องติดตั้ง มาพร้อมดีไซน์อินเทอร์เฟซสไตล์ Steampunk Fantasy ที่สวยงามและใช้งานง่าย
 
 ---
 *หมายเหตุ: Repository นี้ใช้สำหรับแจกจ่ายไฟล์โปรแกรม (Releases) เท่านั้น*
